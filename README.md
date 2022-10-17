@@ -12,6 +12,6 @@
 
 ![Frizfoo Mockup Desain](./readme-images/Frizfoo-Mockup.png "Frizfoo Mockup Desain")
 
-### 👋 Contact Us
+## 👋 Contact Us
 
 If You Want to Contact With Us, You Can Reach Us at [Email](mailto:frizfoo@gmail.com).
