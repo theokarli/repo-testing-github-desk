@@ -8,8 +8,10 @@
 
 <br />
 
-### Demo Screeshots
+### Frizfoo Mockup Desain
 
-![Frizfoo Screenshot Prototype](./readme-images/Frizfoo-Mockup.png "Frizfoo Screenshot Prototype")
+![Frizfoo Mockup Desain](./readme-images/Frizfoo-Mockup.png "Frizfoo Mockup Desain")
 
+### 👋 Contact Us
 
+If You Want to Contact With Us, You Can Reach Us at [Email](mailto:frizfoo@gmail.com).
