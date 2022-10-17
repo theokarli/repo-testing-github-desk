@@ -8,7 +8,7 @@
 
 <br />
 
-## ✨ Frizfoo Mockup Desain ✨ 
+## ✨ Frizfoo Mockup Desain ✨   
 
 ![Frizfoo Mockup Desain](./readme-images/Frizfoo-Mockup.png "Frizfoo Mockup Desain")
 
