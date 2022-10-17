@@ -2,8 +2,7 @@
 
   <h2 align="center">Frizfoo - Everyday is a good day for frizfoo</h2>
 
-  Frizzoo is a Web Application that can connect buyers and sellers in one community,
-  <br />but only focuses on Frozen Food products.
+  Frizzoo Is A Web Application That Can Connect Buyers And Sellers In One Community, <br />But Only Focuses On Frozen Food Products.
 
 </div>
 
@@ -11,6 +10,6 @@
 
 ### Demo Screeshots
 
-![Frizfoo Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Frizfoo Screenshot Prototype](./readme-images/Frizfoo-Mockup.png "Frizfoo Screenshot Prototype")
 
 
